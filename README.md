@@ -1,3 +1,5 @@
+![Diagram](assets/scene/thumbnail.png)
+
 # SDK7 Template scene
 
 ## Try it out
